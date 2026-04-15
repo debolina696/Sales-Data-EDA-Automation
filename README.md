@@ -280,6 +280,50 @@ reports/
 ```
 
 ---
+## 📊 Business Questions Answered
+
+This project was designed to answer key business questions using data analytics and visualization.
+
+---
+
+## 📌 Page 1 — Executive Summary Dashboard
+
+Key business questions:
+
+1. What is the total sales performance over time?
+2. What is the total profit and profit margin?
+3. Which regions contribute most to revenue?
+4. How do sales trends change across months and years?
+5. Are there any noticeable seasonal patterns in sales?
+6. What is the overall business growth trend?
+
+---
+
+## 📌 Page 2 — Product Analysis Dashboard
+
+Key business questions:
+
+1. Which products generate the highest sales?
+2. Which products generate the highest profit?
+3. Which product categories have the best performance?
+4. Are there products with high sales but low profit?
+5. What is the quantity distribution across products?
+6. Which products should be promoted or discontinued?
+
+---
+
+## 📌 Page 3 — Region Analysis Dashboard
+
+Key business questions:
+
+1. Which region contributes the highest revenue?
+2. Which region has the highest profitability?
+3. How do sales vary across different regions?
+4. Are there underperforming regions?
+5. Which regions show strong growth potential?
+6. Where should marketing efforts be focused?
+
+
 
 # 📌 Business Value of This Project
 
