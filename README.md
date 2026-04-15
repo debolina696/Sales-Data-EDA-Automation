@@ -1,3 +1,21 @@
+## 📊 Power BI Dashboard
+
+### Executive Summary
+
+![Executive Summary](Executive_Summary.jpeg)
+
+---
+
+### Product Analysis
+
+![Product Analysis](Product Analysis Dashboard.jpeg)
+
+---
+
+### Region Analysis
+
+![Region Analysis](Region Analysis Dashboard.jpeg)
+
 # 📊 Sales Data EDA & Forecast Automation Project
 
 ## 📌 Project Overview
