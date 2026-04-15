@@ -105,11 +105,18 @@ Sales-Data-EDA-Automation/
 
 ---
 
-# 🔄 Workflow Pipeline
+## 🔄 Project Workflow
 
-Raw Data → Data Cleaning → EDA → Statistical Analysis → Forecasting → PDF Report → Power BI Dashboard
+Raw Data → Data Cleaning → Exploratory Data Analysis → Statistical Analysis → Forecasting → Report Generation → Power BI Dashboard
 
----
+1. Raw sales data is loaded
+2. Data cleaning removes nulls and inconsistencies
+3. EDA generates visual insights
+4. Statistical analysis calculates distributions and correlations
+5. Forecasting predicts future sales trends
+6. Reports are exported automatically
+7. Cleaned data is used in Power BI dashboards
+
 
 # 🧹 Data Cleaning Features
 
