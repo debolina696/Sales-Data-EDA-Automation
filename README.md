@@ -40,18 +40,17 @@ The main objective of this project is to **transform messy raw sales data into m
 
 ---
 
-# 🧰 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* ReportLab
-* Scikit-learn
-* Jupyter Notebook
-* Power BI (Dashboard)
-* GitHub (Version Control)
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- ReportLab
+- Jupyter Notebook
+- Power BI
 
 ---
 
