@@ -17,8 +17,6 @@
 ### Region Analysis
 
 ![Region Analysis] <img width="1469" height="882" alt="Region Analysis Dashboard" src="https://github.com/user-attachments/assets/fcadad7b-f5df-4b28-9771-452da697fb53" />
-
-
 # 📊 Sales Data EDA & Forecast Automation Project
 
 ## 📌 Project Overview
