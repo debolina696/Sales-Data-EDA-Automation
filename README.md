@@ -336,7 +336,26 @@ This project demonstrates:
 * Forecast Modeling
 * Report Automation
 
-These are **core skills required for Data Analyst roles**.
+## 📈 Key Insights
+
+• Sales show a consistent upward trend across months.
+• Certain products contribute significantly higher revenue.
+• Some products show high sales but low profit margins.
+• Regional sales vary significantly across locations.
+• Forecasting indicates stable future sales trends.
+• Outlier detection helped identify unusual transactions.
+
+.
+## 🚀 Project Features
+
+• Automated data cleaning pipeline
+• Automated EDA visualization generation
+• Statistical analysis and correlation detection
+• Sales forecasting using moving average
+• PDF report generation using Python
+• Integration with Power BI dashboards
+• End-to-end automation workflow
+
 
 ---
 
