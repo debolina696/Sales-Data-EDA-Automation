@@ -117,6 +117,15 @@ Raw Data → Data Cleaning → Exploratory Data Analysis → Statistical Analysi
 7. Cleaned data is used in Power BI dashboards
 
 
+## Automation Features
+
+- Automatically archives old reports
+- Generates fresh outputs
+- Supports repeated raw file uploads
+- Timestamp-based archive storage
+
+
+
 # 🧹 Data Cleaning Features
 
 The cleaning module performs:
