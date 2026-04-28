@@ -100,6 +100,7 @@ Sales-Data-EDA-Automation/
 ├── requirements.txt
 ├── README.md
 └── main.py
+└── archive (auto created)
 ```
 
 ---
